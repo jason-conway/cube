@@ -1,2 +1,2 @@
-# cube
-Bespoke bitset library
+# `bitset`: A bespoke bitset library
+
